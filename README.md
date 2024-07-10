@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ken2g60
-- 👀 I’m interested in iOS, Swift, Django.
+- 👀 I’m interested in iOS, Swift, Django, Golang.
 - 🌱 I’m currently learning SwiftUI.
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me twitter @kennethsim07 or dev@swiftlabs.org
