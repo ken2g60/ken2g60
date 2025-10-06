@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ken2g60
+- 👋 Hi, I’m Kenneth Simpson
 - 👀 I’m interested in iOS, Swift, Django, and Golang.
 - 🌱 I’m currently learning SwiftUI.
 - 💞️ I’m looking to collaborate on open-source projects.
