@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kenneth Simpson
-- 👀 I’m interested in iOS, Swift, Django, and Golang.
-- 🌱 I’m currently learning SwiftUI.
+- 👀 I’m interested in Golang,gRPC, Python, iOS, Swift, and Django.
+- 🌱 I’m currently learning C programming.
 - 💞️ I’m looking to collaborate on open-source projects.
 - 📫 How to reach me: Twitter @kennethsim07
 
