@@ -2,7 +2,7 @@
 - 👀 I’m interested in iOS, Swift, Django, and Golang.
 - 🌱 I’m currently learning SwiftUI.
 - 💞️ I’m looking to collaborate on open-source projects.
-- 📫 How to reach me Twitter @kennethsim07 or dev@swiftlabs.org
+- 📫 How to reach me: Twitter @kennethsim07
 
 <!---
 ken2g60/ken2g60 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
