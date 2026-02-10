@@ -7,7 +7,6 @@
 Email: kennethsimpson2g60@gmail.com <br />
 LinkedIn: https://www.linkedin.com/in/kennethnsimpson
 
-I'm really looking forward to any collaboration and work on fintech, health-tech, or a customized backend.
 
 <!---
 ken2g60/ken2g60 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
