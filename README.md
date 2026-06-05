@@ -2,7 +2,6 @@
 - 👀 I’m interested in Golang, gRPC, Python, iOS, Swift, and Django.
 - 🌱 I’m currently learning C programming.
 - 💞️ I’m looking to collaborate on open-source projects.
-- 📫 How to reach me: Twitter @kennethsim07
 
 LinkedIn: https://www.linkedin.com/in/kennethnsimpson
 
