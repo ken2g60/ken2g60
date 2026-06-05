@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on open-source projects.
 - 📫 How to reach me: Twitter @kennethsim07
 
-Email: kennethsimpson2g60@gmail.com <br />
 LinkedIn: https://www.linkedin.com/in/kennethnsimpson
 
 
